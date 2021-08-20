@@ -1,60 +1,24 @@
 label opening:
+    label opening:
     stop music
     scene black with dissolve
     pause(2)
     play music "audio/ost1.ogg" volume 0.65 fadein (1)
-    scene bg_begin with fade
-    show txt1 with dissolve
-    pause (2)
-    hide txt1 with dissolve
-    show txt2 with dissolve
-    pause (2)
-    hide txt2 with dissolve
-    show txt3 with dissolve
-    pause (2)
-    hide txt3 with dissolve
-    show txt4 with dissolve
-    pause (2)
-    hide txt4 with dissolve
-    show txt5 with dissolve
-    pause (2)
-    hide txt5 with dissolve
-    show txt6 with dissolve
-    pause (2)
-    hide txt6 with dissolve
-    show txt7 with dissolve
-    pause (2)
-    hide txt7 with dissolve
-    show txt8 with dissolve
-    pause (2)
-    hide txt8 with dissolve
-    show txt9 with dissolve
-    pause (2)
-    hide txt9 with dissolve
-    show txt10 with dissolve
-    pause(2)
-    hide txt10 with dissolve
-    show txt11 with dissolve
-    pause (2)
-    hide txt11 with dissolve
-    show txt12 with dissolve
-    pause(2)
-    hide txt12 with dissolve
-    show txt13 with dissolve
-    pause (2)
-    hide txt13 with dissolve
-    show txt14 with dissolve
-    pause (2)
-    hide txt14 with dissolve
-    stop music fadeout 1
-    show txt15 with dissolve
-    pause (2)
-    hide txt15 with dissolve
-    stop music fadeout 1
-    show txt16 with dissolve
-    pause (2)
-    hide txt16 with dissolve
-    stop music fadeout 1
+    "{cps=20}Một căn bệnh không thể miêu tả bằng lời.{w} Tất cả chỉ như một khái niệm không thể xác định{/cps}"
+    "{cps=20}Không nguyên nhân.{/cps}"
+    "{cps=20}Không triệu chứng.{/cps}"
+    "{cps=20}Chỉ thầm lặng đến...{w} rồi mang theo sinh mệnh của nạn nhân{/cps}"
+    "{cps=20}Căn bệnh mang tên tình yêu{/cps}"
+    "{cps=20}Nghe thật ngọt ngào. {w} Nhưng cũng thật tàn nhẫn.{/cps}"
+    "{cps=20}Không có thuốc chữa.{/cps}"
+    "{cps=20}Không thể kiểm soát.{/cps}"
+    "{cps=20}Tuy vậy vẫn có duy nhất một cách để phòng tránh hoàn toàn{/cps}"
+    "{cps=20}Thế giới này sẽ không tồn tại tình yêu.{/cps}"
+    "{cps=20}Đại khủng hoảng đã được dập tắt sau hàng ngàn năm.{/cps}"
+    "{cps=20}Khi thế giới đang dần hồi phục.{/cps}"
+    "{cps=20}Mọi thứ giờ chỉ còn là lịch sử{/cps}"
+    "{cps=20}Vậy nhưng một thế giới như vậy có đáng để tồn tại?{/cps}"
+    "{cps=20}Thế giới không có tình yêu?{/cps}"
     scene black with dissolve
     pause (2)
     return
