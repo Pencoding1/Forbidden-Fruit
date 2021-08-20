@@ -3,7 +3,6 @@ label opening:
     scene black with dissolve
     pause(2)
     play music "audio/ost1.ogg" volume 0.65 fadein (1)
-    scene bg_begin with fade
     "{cps=20}Một căn bệnh không thể miêu tả bằng lời.{w} Tất cả chỉ như một khái niệm không thể xác định{/cps}"
     "{cps=20}Không nguyên nhân.{/cps}"
     "{cps=20}Không triệu chứng.{/cps}"
