@@ -1,6 +1,0 @@
-call splashscreen
-label start:
-    call opening
-    call chap1
-    call end
-    call chap2
