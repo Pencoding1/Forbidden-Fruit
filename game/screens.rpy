@@ -343,7 +343,7 @@ style navigation_button:
 
 style navigation_button_text:
     properties gui.button_text_properties("navigation_button")
-    font "font/MTO Dom.ttf"
+    font "font/SVN-Block.ttf"
 
 
 ## Main Menu screen ############################################################
