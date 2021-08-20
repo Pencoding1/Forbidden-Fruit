@@ -1,0 +1,1 @@
+{"layout": null, "orientation": "sensorLandscape", "package": "odc.ln.ff1", "include_pil": false, "expansion": false, "name": "Forbidden Fruit", "update_always": true, "source": false, "icon_name": "Forbidden Fruit", "version": "0.0.1", "heap_size": "2", "update_icons": true, "permissions": ["VIBRATE"], "numeric_version": "1", "include_sqlite": false, "store": "none"}
